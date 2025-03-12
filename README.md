@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Zidong-Zeng
+- 👋 Hi, I’m Zidong Zeng
 - 🌱 I’m currently an undergraduate student at Northeastern University in China
 - 👀 I’m interested in Natural Language Processing
-- 📫 Please feel free to contact me：zengzidong666@gmail.com
+- 📫 Please feel free to contact me：2652015039@qq.com
 - 🔭 Honors:
 
 
